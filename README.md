@@ -2,7 +2,7 @@
 
 # Neil Patel
 
-**I build systems from first principles — consensus engines, interpretability tools, and multiplayer netcode — and ship them end to end.**
+**I build systems from first principles (consensus engines, interpretability tools, multiplayer netcode) and ship them end to end.**
 
 ![UNC Chapel Hill](https://img.shields.io/badge/UNC%20Chapel%20Hill-30363D?style=flat-square)
 &nbsp;·&nbsp;
@@ -22,9 +22,9 @@
 
 ## ⚡ What I'm Building
 
-- **🔩 Systems from scratch** — a [Raft](https://github.com/NeilP211/distkv) consensus engine in Go (no library), and a [Rust HNSW vector index](https://github.com/NeilP211/crypt) benchmarked against exact kNN.
-- **🧠 Understanding ML, not just using it** — reproducing & extending [induction heads](https://github.com/NeilP211/neuropeek) on Pythia with a custom Triton kernel, and a [graph neural network](https://github.com/NeilP211/runway) that learns outfit compatibility at **0.848 AUC**.
-- **🌐 Real-time multiplayer** — a [browser extraction shooter](https://github.com/NeilP211/exfil) with authoritative-server netcode: 64Hz tick, client prediction, and lag compensation.
+- **🔩 Systems from scratch:** a [Raft](https://github.com/NeilP211/distkv) consensus engine in Go (no library), and a [Rust HNSW vector index](https://github.com/NeilP211/crypt) benchmarked against exact kNN.
+- **🧠 Understanding ML, not just using it:** reproducing & extending [induction heads](https://github.com/NeilP211/neuropeek) on Pythia with a custom Triton kernel, and a [graph neural network](https://github.com/NeilP211/runway) that learns outfit compatibility at **0.848 AUC**.
+- **🌐 Real-time multiplayer:** a [browser extraction shooter](https://github.com/NeilP211/exfil) with authoritative-server netcode: 64Hz tick, client prediction, and lag compensation.
 
 ---
 
@@ -32,13 +32,13 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[distkv](https://github.com/NeilP211/distkv)** | From-scratch **Raft** consensus engine — no etcd/raft library. Leader election, log replication, snapshots, joint-consensus membership; verified by a deterministic chaos suite + linearizability checker. Live TUI dashboard, Prometheus/Grafana, Helm/K8s. | `Go` `gRPC` `Raft` `bbolt` `Kubernetes` |
+| **[distkv](https://github.com/NeilP211/distkv)** | From-scratch **Raft** consensus engine: no etcd/raft library. Leader election, log replication, snapshots, joint-consensus membership; verified by a deterministic chaos suite + linearizability checker. Live TUI dashboard, Prometheus/Grafana, Helm/K8s. | `Go` `gRPC` `Raft` `bbolt` `Kubernetes` |
 | **[neuropeek](https://github.com/NeilP211/neuropeek)** | Mechanistic-interpretability lab reproducing **and** extending Olsson '22 induction heads on Pythia, with a custom **Triton kernel** for the hot probing path. Headline: scale-invariant emergence at step ~1000. | `Python` `PyTorch` `Triton` `Pythia` |
-| **[exfil](https://github.com/NeilP211/exfil)** | Browser-playable authoritative-server extraction shooter — competitive netcode: **64Hz tick**, client prediction, lag compensation, and a measured peeker's-advantage window. | `Go` `Rust/WASM` `TypeScript` `three.js` |
-| **[runway](https://github.com/NeilP211/runway)** | An AI stylist that learns what actually *goes together* — a **GNN** trained on 35k Polyvore outfits scores compatibility (**0.848 AUC**), powering catalog search, color/brand filters, and an interactive "Catwalk" builder. | `Python` `PyTorch` `GNN` `Full-stack` |
-| **[crypt](https://github.com/NeilP211/crypt)** | Geospatial visual search for haunted & abandoned places — drop a photo and a **from-scratch Rust HNSW index** ranks similar locations by CLIP-embedding similarity, distance, and lore. | `Rust` `Next.js` `PostGIS` `CLIP` `AWS` |
-| **[LookBetter](https://github.com/NeilP211/LookBetter)** | Full-stack face-analysis app — FastAPI + **MediaPipe** detect 478 facial landmarks and score classic proportions (FWHR, symmetry), served to a React frontend. | `FastAPI` `MediaPipe` `React` |
-| **[fortnut-2](https://github.com/NeilP211/fortnut-2)** | A solo-built **Unity (C#)** FPS with custom Blender models, shipped to GameJolt — the project that taught me to actually finish and ship a game. | `Unity` `C#` `Blender` |
+| **[exfil](https://github.com/NeilP211/exfil)** | Browser-playable authoritative-server extraction shooter with competitive netcode: **64Hz tick**, client prediction, lag compensation, and a measured peeker's-advantage window. | `Go` `Rust/WASM` `TypeScript` `three.js` |
+| **[runway](https://github.com/NeilP211/runway)** | An AI stylist that learns what actually *goes together*: a **GNN** trained on 35k Polyvore outfits scores compatibility (**0.848 AUC**), powering catalog search, color/brand filters, and an interactive "Catwalk" builder. | `Python` `PyTorch` `GNN` `Full-stack` |
+| **[crypt](https://github.com/NeilP211/crypt)** | Geospatial visual search for haunted & abandoned places: drop a photo and a **from-scratch Rust HNSW index** ranks similar locations by CLIP-embedding similarity, distance, and lore. | `Rust` `Next.js` `PostGIS` `CLIP` `AWS` |
+| **[LookBetter](https://github.com/NeilP211/LookBetter)** | Full-stack face-analysis app: FastAPI + **MediaPipe** detect 478 facial landmarks and score classic proportions (FWHR, symmetry), served to a React frontend. | `FastAPI` `MediaPipe` `React` |
+| **[fortnut-2](https://github.com/NeilP211/fortnut-2)** | A solo-built **Unity (C#)** FPS with custom Blender models, shipped to GameJolt. The project that taught me to actually finish and ship a game. | `Unity` `C#` `Blender` |
 
 ---
 
@@ -110,5 +110,3 @@
 <sub><i>The best way to understand a system is to build it.</i></sub>
 
 </div>
-
-<!-- profile -->
