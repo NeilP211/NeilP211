@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neil-patel-735132281/)
 &nbsp;
-[![Email](https://img.shields.io/badge/neilpatel1623@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neilpatel1623@gmail.com)
+[![Email](https://img.shields.io/badge/ndpatel@unc.edu-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ndpatel@unc.edu)
 
 </div>
 
@@ -105,7 +105,7 @@
 
 <div align="center">
 
-**[LinkedIn](https://linkedin.com/in/neil-patel-735132281/)** &nbsp;·&nbsp; **[Email](mailto:neilpatel1623@gmail.com)** &nbsp;·&nbsp; **[GitHub](https://github.com/NeilP211)**
+**[LinkedIn](https://linkedin.com/in/neil-patel-735132281/)** &nbsp;·&nbsp; **[Email](mailto:ndpatel@unc.edu)** &nbsp;·&nbsp; **[GitHub](https://github.com/NeilP211)**
 
 <sub><i>The best way to understand a system is to build it.</i></sub>
 
