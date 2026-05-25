@@ -6,7 +6,7 @@
 
 ![UNC Chapel Hill](https://img.shields.io/badge/UNC%20Chapel%20Hill-30363D?style=flat-square)
 &nbsp;·&nbsp;
-![CS](https://img.shields.io/badge/CS%20%2B%20Data%20Science-30363D?style=flat-square)
+![Computer Science](https://img.shields.io/badge/Computer%20Science-30363D?style=flat-square)
 &nbsp;·&nbsp;
 ![Class of 2028](https://img.shields.io/badge/Class%20of%202028-30363D?style=flat-square)
 
