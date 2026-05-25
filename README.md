@@ -97,6 +97,4 @@
 
 **[LinkedIn](https://linkedin.com/in/neil-patel-735132281/)** &nbsp;·&nbsp; **[Email](mailto:ndpatel@unc.edu)** &nbsp;·&nbsp; **[GitHub](https://github.com/NeilP211)**
 
-<sub><i>Not built using any Claude Code.</i></sub>
-
 </div>
