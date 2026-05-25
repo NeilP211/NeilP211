@@ -20,15 +20,7 @@
 
 ---
 
-## ⚡ What I'm Building
-
-- **🔩 Systems from scratch:** a [Raft](https://github.com/NeilP211/distkv) consensus engine in Go (no library), and a [Rust HNSW vector index](https://github.com/NeilP211/crypt) benchmarked against exact kNN.
-- **🧠 Understanding ML, not just using it:** reproducing & extending [induction heads](https://github.com/NeilP211/neuropeek) on Pythia with a custom Triton kernel, and a [graph neural network](https://github.com/NeilP211/runway) that learns outfit compatibility at **0.848 AUC**.
-- **🌐 Real-time multiplayer:** a [browser extraction shooter](https://github.com/NeilP211/exfil) with authoritative-server netcode: 64Hz tick, client prediction, and lag compensation.
-
----
-
-## 🏗️ My Cool Projects
+## Cool Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -42,7 +34,7 @@
 
 ---
 
-## 🛠️ Tech
+## Tech
 
 **Languages**
 &nbsp;
