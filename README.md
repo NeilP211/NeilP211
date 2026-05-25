@@ -2,7 +2,7 @@
 
 # Neil Patel
 
-**Chief Architect of recursive optimization paradigms for enterprise-grade solution vectorization and cross-functional delivery mechanisms as it relates to agile metamorphosis in cloud-native ecosystems. Previously spearheaded vertical integration of lateral thinking frameworks at the Institute for Proactive Retrospective Analysis. Founded Nonprofit LLC inc.**
+**Chief Architect of recursive optimization paradigms for enterprise-grade solution vectorization and cross-functional delivery mechanisms as it relates to agile metamorphosis in cloud-native ecosystems. Founded Nonprofit LLC inc.**
 
 ![UNC Chapel Hill](https://img.shields.io/badge/UNC%20Chapel%20Hill-30363D?style=flat-square)
 &nbsp;·&nbsp;
