@@ -37,8 +37,8 @@
 | **[exfil](https://github.com/NeilP211/exfil)** | Browser-playable authoritative-server extraction shooter with competitive netcode: **64Hz tick**, client prediction, lag compensation, and a measured peeker's-advantage window. | `Go` `Rust/WASM` `TypeScript` `three.js` |
 | **[runway](https://github.com/NeilP211/runway)** | An AI stylist that learns what actually *goes together*: a **GNN** trained on 35k Polyvore outfits scores compatibility (**0.848 AUC**), powering catalog search, color/brand filters, and an interactive "Catwalk" builder. | `Python` `PyTorch` `GNN` `Full-stack` |
 | **[crypt](https://github.com/NeilP211/crypt)** | Geospatial visual search for haunted & abandoned places: drop a photo and a **from-scratch Rust HNSW index** ranks similar locations by CLIP-embedding similarity, distance, and lore. | `Rust` `Next.js` `PostGIS` `CLIP` `AWS` |
-| **[LookBetter](https://github.com/NeilP211/LookBetter)** | Full-stack face-analysis app: FastAPI + **MediaPipe** detect 478 facial landmarks and score classic proportions (FWHR, symmetry), served to a React frontend. | `FastAPI` `MediaPipe` `React` |
-| **[fortnut-2](https://github.com/NeilP211/fortnut-2)** | A solo-built **Unity (C#)** FPS with custom Blender models, shipped to GameJolt. The project that taught me to actually finish and ship a game. | `Unity` `C#` `Blender` |
+| **[LookBetter](https://github.com/NeilP211/LookBetter)** | U-Max remake, Full-stack face-analysis app: FastAPI + **MediaPipe** detect 478 facial landmarks and score classic proportions (FWHR, symmetry), served to a React frontend. Looksmaxxing trend. | `FastAPI` `MediaPipe` `React` |
+| **[fortnut-2](https://github.com/NeilP211/fortnut-2)** | A solo-built **Unity (C#)** FPS with custom Blender models, shipped to GameJolt. Built as a kid who really liked Fortnite. | `Unity` `C#` `Blender` |
 
 ---
 
