@@ -2,7 +2,7 @@
 
 # Neil Patel
 
-**Full-stack/ML Products. Founded Nonprofit LLC inc. inc.**
+**Full-stack/AI Products. Founded Nonprofit LLC inc. inc.**
 
 ![UNC Chapel Hill](https://img.shields.io/badge/UNC%20Chapel%20Hill-30363D?style=flat-square)
 &nbsp;·&nbsp;
