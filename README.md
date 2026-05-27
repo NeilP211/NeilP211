@@ -32,7 +32,7 @@
 
 ---
 
-## Tech
+## Tech w/ rainbow icons
 
 **Languages**
 &nbsp;
