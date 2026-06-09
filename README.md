@@ -22,8 +22,6 @@
 
 🎧 **[See what I'm listening to right now →](https://neilp211.github.io/xonos/)** &nbsp;·&nbsp; [xonos repo](https://github.com/NeilP211/xonos)
 
-*a live, auto-updating Spotify stats dashboard*
-
 </div>
 
 ---
