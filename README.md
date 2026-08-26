@@ -22,6 +22,8 @@
 
 🎧 **[See what I'm listening to right now →](https://neilp211.github.io/xonos/)** &nbsp;·&nbsp; [xonos repo](https://github.com/NeilP211/xonos)
 
+🐏 **[Every event happening at UNC, in one place →](https://neilp211.github.io/heelseek/)** &nbsp;·&nbsp; [heelseek repo](https://github.com/NeilP211/heelseek) &nbsp; `NEW`
+
 </div>
 
 ---
@@ -30,6 +32,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[heelseek](https://github.com/NeilP211/heelseek)** | UNC does not have one calendar, it has seven that do not talk to each other. HeelSeek reverse-engineers all of them (Localist and Campus Labs Engage JSON APIs, a SIDEARM iCal feed, two WordPress REST APIs, a season-page scrape) into **~1,300 events** behind one filter bar, refreshed every 3h by Actions with **zero secrets**. Includes a **free food detector** with verb-proximity scoring and an exclusion list, so "food insecurity panel" does not read as free pizza. **[Live →](https://neilp211.github.io/heelseek/)** | `Node` `React` `Vite` `Scraping` |
 | **[exfil](https://github.com/NeilP211/exfil)** | Browser-playable authoritative-server extraction shooter with competitive netcode (**64Hz tick**, client prediction, lag compensation). **Self-play RL drives the enemy AI**: a PPO policy trained on the bit-exact sim (**100% win rate** vs scripted/random) is exported and run **natively in the Go server** to control the in-game scavs, with a line-of-sight vision + memory layer. | `Go` `Rust/WASM` `TypeScript` `PyTorch` `RL` |
 | **[crypt](https://github.com/NeilP211/crypt)** | Geospatial visual search for haunted places **plus an in-app RAG agent**: ask a question and a **Claude** planner over a hybrid retriever (BGE + BM25, **Reciprocal Rank Fusion**, cross-encoder rerank) answers with cited places pinned on the map, scored by an **LLM-judge** eval harness. Backed by a from-scratch **Rust HNSW** index. | `Rust` `Next.js` `RAG` `Claude` `CLIP` `AWS` |
 | **[distkv](https://github.com/NeilP211/distkv)** | From-scratch **Raft** consensus engine: no etcd/raft library. Leader election, log replication, snapshots, joint-consensus membership; verified by a deterministic chaos suite + linearizability checker. Live TUI dashboard, Prometheus/Grafana, Helm/K8s. | `Go` `gRPC` `Raft` `bbolt` `Kubernetes` |
